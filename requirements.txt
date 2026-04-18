@@ -1,0 +1,8 @@
+numpy
+onnx>=1.15.0
+onnxruntime>=1.17.0
+onnx_tool
+torch
+scipy
+tqdm
+rich
