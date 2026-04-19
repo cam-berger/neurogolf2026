@@ -1,0 +1,3770 @@
+[
+  {
+    "task_id": 3,
+    "status": "SUCCESS (265/265) attempt=0",
+    "elapsed": 18.739064693450928,
+    "code_saved": true,
+    "usage": {
+      "input": 1445,
+      "output": 1708,
+      "cache_read": 0,
+      "cache_write": 0
+    }
+  },
+  {
+    "task_id": 5,
+    "status": "FAILED (210/266)",
+    "elapsed": 110.09703946113586,
+    "code_saved": true,
+    "usage": {
+      "input": 55655,
+      "output": 9106,
+      "cache_read": 0,
+      "cache_write": 0
+    }
+  },
+  {
+    "task_id": 8,
+    "status": "SUCCESS (266/266) attempt=0",
+    "elapsed": 19.127044200897217,
+    "code_saved": true,
+    "usage": {
+      "input": 4349,
+      "output": 1644,
+      "cache_read": 0,
+      "cache_write": 0
+    }
+  },
+  {
+    "task_id": 9,
+    "status": "SUCCESS (265/265) attempt=1",
+    "elapsed": 52.11789536476135,
+    "code_saved": true,
+    "usage": {
+      "input": 42381,
+      "output": 5006,
+      "cache_read": 0,
+      "cache_write": 0
+    }
+  },
+  {
+    "task_id": 10,
+    "status": "SUCCESS (265/265) attempt=0",
+    "elapsed": 5.535934209823608,
+    "code_saved": true,
+    "usage": {
+      "input": 3245,
+      "output": 398,
+      "cache_read": 0,
+      "cache_write": 0
+    }
+  },
+  {
+    "task_id": 11,
+    "status": "SUCCESS (267/267) attempt=1",
+    "elapsed": 74.13259673118591,
+    "code_saved": true,
+    "usage": {
+      "input": 13158,
+      "output": 6975,
+      "cache_read": 0,
+      "cache_write": 0
+    }
+  },
+  {
+    "task_id": 12,
+    "status": "SUCCESS (265/265) attempt=0",
+    "elapsed": 34.10315299034119,
+    "code_saved": true,
+    "usage": {
+      "input": 5225,
+      "output": 2947,
+      "cache_read": 0,
+      "cache_write": 0
+    }
+  },
+  {
+    "task_id": 13,
+    "status": "SUCCESS (267/267) attempt=0",
+    "elapsed": 25.066923141479492,
+    "code_saved": true,
+    "usage": {
+      "input": 7577,
+      "output": 1956,
+      "cache_read": 0,
+      "cache_write": 0
+    }
+  },
+  {
+    "task_id": 14,
+    "status": "SUCCESS (266/266) attempt=0",
+    "elapsed": 19.417012453079224,
+    "code_saved": true,
+    "usage": {
+      "input": 7019,
+      "output": 1812,
+      "cache_read": 0,
+      "cache_write": 0
+    }
+  },
+  {
+    "task_id": 17,
+    "status": "SUCCESS (266/266) attempt=0",
+    "elapsed": 17.321449518203735,
+    "code_saved": true,
+    "usage": {
+      "input": 14405,
+      "output": 1472,
+      "cache_read": 0,
+      "cache_write": 0
+    }
+  },
+  {
+    "task_id": 18,
+    "status": "SUCCESS (266/266) attempt=2",
+    "elapsed": 108.26291251182556,
+    "code_saved": true,
+    "usage": {
+      "input": 42013,
+      "output": 9557,
+      "cache_read": 0,
+      "cache_write": 0
+    }
+  },
+  {
+    "task_id": 19,
+    "status": "SUCCESS (267/267) attempt=1",
+    "elapsed": 47.61953592300415,
+    "code_saved": true,
+    "usage": {
+      "input": 8028,
+      "output": 4366,
+      "cache_read": 0,
+      "cache_write": 0
+    }
+  },
+  {
+    "task_id": 20,
+    "status": "SUCCESS (266/266) attempt=0",
+    "elapsed": 33.19807815551758,
+    "code_saved": true,
+    "usage": {
+      "input": 3845,
+      "output": 2870,
+      "cache_read": 0,
+      "cache_write": 0
+    }
+  },
+  {
+    "task_id": 21,
+    "status": "SUCCESS (266/266) attempt=0",
+    "elapsed": 10.301086664199829,
+    "code_saved": true,
+    "usage": {
+      "input": 11531,
+      "output": 670,
+      "cache_read": 0,
+      "cache_write": 0
+    }
+  },
+  {
+    "task_id": 22,
+    "status": "SUCCESS (266/266) attempt=1",
+    "elapsed": 48.87328553199768,
+    "code_saved": true,
+    "usage": {
+      "input": 9549,
+      "output": 4578,
+      "cache_read": 0,
+      "cache_write": 0
+    }
+  },
+  {
+    "task_id": 23,
+    "status": "no code after 3 attempts",
+    "elapsed": 135.45297503471375,
+    "code_saved": false,
+    "usage": {
+      "input": 22504,
+      "output": 12288,
+      "cache_read": 0,
+      "cache_write": 0
+    }
+  },
+  {
+    "task_id": 24,
+    "status": "SUCCESS (266/266) attempt=0",
+    "elapsed": 13.141391038894653,
+    "code_saved": true,
+    "usage": {
+      "input": 3839,
+      "output": 1050,
+      "cache_read": 0,
+      "cache_write": 0
+    }
+  },
+  {
+    "task_id": 25,
+    "status": "SUCCESS (266/266) attempt=1",
+    "elapsed": 83.54639744758606,
+    "code_saved": true,
+    "usage": {
+      "input": 26694,
+      "output": 8031,
+      "cache_read": 0,
+      "cache_write": 0
+    }
+  },
+  {
+    "task_id": 26,
+    "status": "SUCCESS (268/268) attempt=0",
+    "elapsed": 10.421972274780273,
+    "code_saved": true,
+    "usage": {
+      "input": 1445,
+      "output": 942,
+      "cache_read": 0,
+      "cache_write": 0
+    }
+  },
+  {
+    "task_id": 27,
+    "status": "no code after 3 attempts",
+    "elapsed": 133.67380690574646,
+    "code_saved": false,
+    "usage": {
+      "input": 23979,
+      "output": 12288,
+      "cache_read": 0,
+      "cache_write": 0
+    }
+  },
+  {
+    "task_id": 28,
+    "status": "SUCCESS (265/265) attempt=0",
+    "elapsed": 5.69572639465332,
+    "code_saved": true,
+    "usage": {
+      "input": 3845,
+      "output": 454,
+      "cache_read": 0,
+      "cache_write": 0
+    }
+  },
+  {
+    "task_id": 29,
+    "status": "SUCCESS (266/266) attempt=0",
+    "elapsed": 11.202272891998291,
+    "code_saved": true,
+    "usage": {
+      "input": 6659,
+      "output": 840,
+      "cache_read": 0,
+      "cache_write": 0
+    }
+  },
+  {
+    "task_id": 30,
+    "status": "SUCCESS (266/266) attempt=0",
+    "elapsed": 28.932470321655273,
+    "code_saved": true,
+    "usage": {
+      "input": 2855,
+      "output": 2681,
+      "cache_read": 0,
+      "cache_write": 0
+    }
+  },
+  {
+    "task_id": 32,
+    "status": "SUCCESS (266/266) attempt=0",
+    "elapsed": 10.67073130607605,
+    "code_saved": true,
+    "usage": {
+      "input": 1529,
+      "output": 1071,
+      "cache_read": 0,
+      "cache_write": 0
+    }
+  },
+  {
+    "task_id": 33,
+    "status": "SUCCESS (265/265) attempt=1",
+    "elapsed": 82.21083855628967,
+    "code_saved": true,
+    "usage": {
+      "input": 23598,
+      "output": 6836,
+      "cache_read": 0,
+      "cache_write": 0
+    }
+  },
+  {
+    "task_id": 34,
+    "status": "SUCCESS (267/267) attempt=2",
+    "elapsed": 93.30887365341187,
+    "code_saved": true,
+    "usage": {
+      "input": 22170,
+      "output": 8746,
+      "cache_read": 0,
+      "cache_write": 0
+    }
+  },
+  {
+    "task_id": 35,
+    "status": "SUCCESS (266/266) attempt=0",
+    "elapsed": 13.085551500320435,
+    "code_saved": true,
+    "usage": {
+      "input": 3845,
+      "output": 1086,
+      "cache_read": 0,
+      "cache_write": 0
+    }
+  },
+  {
+    "task_id": 36,
+    "status": "SUCCESS (265/265) attempt=0",
+    "elapsed": 9.113068342208862,
+    "code_saved": true,
+    "usage": {
+      "input": 14753,
+      "output": 553,
+      "cache_read": 0,
+      "cache_write": 0
+    }
+  },
+  {
+    "task_id": 37,
+    "status": "SUCCESS (266/266) attempt=0",
+    "elapsed": 7.477692604064941,
+    "code_saved": true,
+    "usage": {
+      "input": 3845,
+      "output": 590,
+      "cache_read": 0,
+      "cache_write": 0
+    }
+  },
+  {
+    "task_id": 38,
+    "status": "SUCCESS (266/266) attempt=0",
+    "elapsed": 9.808017253875732,
+    "code_saved": true,
+    "usage": {
+      "input": 1985,
+      "output": 957,
+      "cache_read": 0,
+      "cache_write": 0
+    }
+  },
+  {
+    "task_id": 39,
+    "status": "SUCCESS (264/264) attempt=0",
+    "elapsed": 9.312875032424927,
+    "code_saved": true,
+    "usage": {
+      "input": 2375,
+      "output": 775,
+      "cache_read": 0,
+      "cache_write": 0
+    }
+  },
+  {
+    "task_id": 41,
+    "status": "SUCCESS (266/266) attempt=0",
+    "elapsed": 11.571210622787476,
+    "code_saved": true,
+    "usage": {
+      "input": 3845,
+      "output": 932,
+      "cache_read": 0,
+      "cache_write": 0
+    }
+  },
+  {
+    "task_id": 42,
+    "status": "no code after 3 attempts",
+    "elapsed": 140.88697028160095,
+    "code_saved": false,
+    "usage": {
+      "input": 23979,
+      "output": 12288,
+      "cache_read": 0,
+      "cache_write": 0
+    }
+  },
+  {
+    "task_id": 43,
+    "status": "SUCCESS (266/266) attempt=0",
+    "elapsed": 4.218296051025391,
+    "code_saved": true,
+    "usage": {
+      "input": 3845,
+      "output": 181,
+      "cache_read": 0,
+      "cache_write": 0
+    }
+  },
+  {
+    "task_id": 44,
+    "status": "SUCCESS (266/266) attempt=2",
+    "elapsed": 99.62125873565674,
+    "code_saved": true,
+    "usage": {
+      "input": 21492,
+      "output": 8623,
+      "cache_read": 0,
+      "cache_write": 0
+    }
+  },
+  {
+    "task_id": 45,
+    "status": "SUCCESS (265/265) attempt=0",
+    "elapsed": 2.671196222305298,
+    "code_saved": true,
+    "usage": {
+      "input": 3845,
+      "output": 136,
+      "cache_read": 0,
+      "cache_write": 0
+    }
+  },
+  {
+    "task_id": 46,
+    "status": "no code after 3 attempts",
+    "elapsed": 139.8922302722931,
+    "code_saved": false,
+    "usage": {
+      "input": 16887,
+      "output": 12288,
+      "cache_read": 0,
+      "cache_write": 0
+    }
+  },
+  {
+    "task_id": 47,
+    "status": "SUCCESS (265/265) attempt=0",
+    "elapsed": 13.671255588531494,
+    "code_saved": true,
+    "usage": {
+      "input": 3245,
+      "output": 1032,
+      "cache_read": 0,
+      "cache_write": 0
+    }
+  },
+  {
+    "task_id": 48,
+    "status": "SUCCESS (270/270) attempt=2",
+    "elapsed": 128.97953057289124,
+    "code_saved": true,
+    "usage": {
+      "input": 16095,
+      "output": 11980,
+      "cache_read": 0,
+      "cache_write": 0
+    }
+  },
+  {
+    "task_id": 49,
+    "status": "SUCCESS (268/268) attempt=1",
+    "elapsed": 34.14888787269592,
+    "code_saved": true,
+    "usage": {
+      "input": 9735,
+      "output": 2664,
+      "cache_read": 0,
+      "cache_write": 0
+    }
+  },
+  {
+    "task_id": 50,
+    "status": "SUCCESS (271/271) attempt=0",
+    "elapsed": 4.681576490402222,
+    "code_saved": true,
+    "usage": {
+      "input": 3167,
+      "output": 309,
+      "cache_read": 0,
+      "cache_write": 0
+    }
+  },
+  {
+    "task_id": 51,
+    "status": "SUCCESS (265/265) attempt=0",
+    "elapsed": 32.44193458557129,
+    "code_saved": true,
+    "usage": {
+      "input": 6059,
+      "output": 2894,
+      "cache_read": 0,
+      "cache_write": 0
+    }
+  },
+  {
+    "task_id": 54,
+    "status": "no code after 3 attempts",
+    "elapsed": 145.1181263923645,
+    "code_saved": false,
+    "usage": {
+      "input": 97779,
+      "output": 12288,
+      "cache_read": 0,
+      "cache_write": 0
+    }
+  },
+  {
+    "task_id": 55,
+    "status": "SUCCESS (265/265) attempt=0",
+    "elapsed": 5.615091323852539,
+    "code_saved": true,
+    "usage": {
+      "input": 9485,
+      "output": 377,
+      "cache_read": 0,
+      "cache_write": 0
+    }
+  },
+  {
+    "task_id": 56,
+    "status": "no code after 3 attempts",
+    "elapsed": 99.24197816848755,
+    "code_saved": false,
+    "usage": {
+      "input": 11912,
+      "output": 9430,
+      "cache_read": 0,
+      "cache_write": 0
+    }
+  },
+  {
+    "task_id": 57,
+    "status": "SUCCESS (265/265) attempt=0",
+    "elapsed": 5.3438804149627686,
+    "code_saved": true,
+    "usage": {
+      "input": 1940,
+      "output": 381,
+      "cache_read": 0,
+      "cache_write": 0
+    }
+  },
+  {
+    "task_id": 58,
+    "status": "SUCCESS (22/22) attempt=2",
+    "elapsed": 101.05756616592407,
+    "code_saved": true,
+    "usage": {
+      "input": 25707,
+      "output": 8663,
+      "cache_read": 0,
+      "cache_write": 0
+    }
+  },
+  {
+    "task_id": 59,
+    "status": "SUCCESS (266/266) attempt=0",
+    "elapsed": 16.652058839797974,
+    "code_saved": true,
+    "usage": {
+      "input": 4505,
+      "output": 1639,
+      "cache_read": 0,
+      "cache_write": 0
+    }
+  },
+  {
+    "task_id": 60,
+    "status": "SUCCESS (265/265) attempt=0",
+    "elapsed": 2.7002058029174805,
+    "code_saved": true,
+    "usage": {
+      "input": 2345,
+      "output": 172,
+      "cache_read": 0,
+      "cache_write": 0
+    }
+  },
+  {
+    "task_id": 61,
+    "status": "SUCCESS (267/267) attempt=0",
+    "elapsed": 31.193983793258667,
+    "code_saved": true,
+    "usage": {
+      "input": 10805,
+      "output": 2455,
+      "cache_read": 0,
+      "cache_write": 0
+    }
+  },
+  {
+    "task_id": 62,
+    "status": "SUCCESS (267/267) attempt=2",
+    "elapsed": 97.25103092193604,
+    "code_saved": true,
+    "usage": {
+      "input": 23979,
+      "output": 8706,
+      "cache_read": 0,
+      "cache_write": 0
+    }
+  },
+  {
+    "task_id": 63,
+    "status": "SUCCESS (266/266) attempt=2",
+    "elapsed": 125.06834673881531,
+    "code_saved": true,
+    "usage": {
+      "input": 29235,
+      "output": 11218,
+      "cache_read": 0,
+      "cache_write": 0
+    }
+  },
+  {
+    "task_id": 64,
+    "status": "SUCCESS (267/267) attempt=0",
+    "elapsed": 23.582842111587524,
+    "code_saved": true,
+    "usage": {
+      "input": 7223,
+      "output": 2179,
+      "cache_read": 0,
+      "cache_write": 0
+    }
+  },
+  {
+    "task_id": 65,
+    "status": "SUCCESS (266/266) attempt=0",
+    "elapsed": 5.36360764503479,
+    "code_saved": true,
+    "usage": {
+      "input": 2501,
+      "output": 440,
+      "cache_read": 0,
+      "cache_write": 0
+    }
+  },
+  {
+    "task_id": 66,
+    "status": "no code after 3 attempts",
+    "elapsed": 147.9370231628418,
+    "code_saved": false,
+    "usage": {
+      "input": 37371,
+      "output": 12288,
+      "cache_read": 0,
+      "cache_write": 0
+    }
+  },
+  {
+    "task_id": 68,
+    "status": "SUCCESS (266/266) attempt=0",
+    "elapsed": 10.994143962860107,
+    "code_saved": true,
+    "usage": {
+      "input": 3845,
+      "output": 871,
+      "cache_read": 0,
+      "cache_write": 0
+    }
+  },
+  {
+    "task_id": 69,
+    "status": "SUCCESS (264/264) attempt=1",
+    "elapsed": 54.91373872756958,
+    "code_saved": true,
+    "usage": {
+      "input": 11829,
+      "output": 4955,
+      "cache_read": 0,
+      "cache_write": 0
+    }
+  },
+  {
+    "task_id": 70,
+    "status": "SUCCESS (266/266) attempt=0",
+    "elapsed": 13.906632423400879,
+    "code_saved": true,
+    "usage": {
+      "input": 9725,
+      "output": 1152,
+      "cache_read": 0,
+      "cache_write": 0
+    }
+  },
+  {
+    "task_id": 71,
+    "status": "SUCCESS (265/265) attempt=2",
+    "elapsed": 109.14792704582214,
+    "code_saved": true,
+    "usage": {
+      "input": 38559,
+      "output": 9073,
+      "cache_read": 0,
+      "cache_write": 0
+    }
+  },
+  {
+    "task_id": 74,
+    "status": "FAILED (232/267)",
+    "elapsed": 81.42157554626465,
+    "code_saved": true,
+    "usage": {
+      "input": 101621,
+      "output": 7069,
+      "cache_read": 0,
+      "cache_write": 0
+    }
+  },
+  {
+    "task_id": 76,
+    "status": "FAILED (200/266)",
+    "elapsed": 107.1840934753418,
+    "code_saved": true,
+    "usage": {
+      "input": 31683,
+      "output": 9581,
+      "cache_read": 0,
+      "cache_write": 0
+    }
+  },
+  {
+    "task_id": 77,
+    "status": "SUCCESS (266/266) attempt=1",
+    "elapsed": 52.49902844429016,
+    "code_saved": true,
+    "usage": {
+      "input": 23538,
+      "output": 4657,
+      "cache_read": 0,
+      "cache_write": 0
+    }
+  },
+  {
+    "task_id": 78,
+    "status": "SUCCESS (266/266) attempt=1",
+    "elapsed": 54.266627073287964,
+    "code_saved": true,
+    "usage": {
+      "input": 11838,
+      "output": 4707,
+      "cache_read": 0,
+      "cache_write": 0
+    }
+  },
+  {
+    "task_id": 79,
+    "status": "SUCCESS (266/266) attempt=1",
+    "elapsed": 42.98944807052612,
+    "code_saved": true,
+    "usage": {
+      "input": 10526,
+      "output": 3607,
+      "cache_read": 0,
+      "cache_write": 0
+    }
+  },
+  {
+    "task_id": 80,
+    "status": "SUCCESS (266/266) attempt=2",
+    "elapsed": 103.3156304359436,
+    "code_saved": true,
+    "usage": {
+      "input": 80391,
+      "output": 9457,
+      "cache_read": 0,
+      "cache_write": 0
+    }
+  },
+  {
+    "task_id": 82,
+    "status": "SUCCESS (265/265) attempt=0",
+    "elapsed": 7.754636764526367,
+    "code_saved": true,
+    "usage": {
+      "input": 2453,
+      "output": 522,
+      "cache_read": 0,
+      "cache_write": 0
+    }
+  },
+  {
+    "task_id": 84,
+    "status": "SUCCESS (175/175) attempt=0",
+    "elapsed": 2.6320443153381348,
+    "code_saved": true,
+    "usage": {
+      "input": 5573,
+      "output": 107,
+      "cache_read": 0,
+      "cache_write": 0
+    }
+  },
+  {
+    "task_id": 85,
+    "status": "SUCCESS (265/265) attempt=0",
+    "elapsed": 5.296969413757324,
+    "code_saved": true,
+    "usage": {
+      "input": 7955,
+      "output": 389,
+      "cache_read": 0,
+      "cache_write": 0
+    }
+  },
+  {
+    "task_id": 86,
+    "status": "SUCCESS (266/266) attempt=1",
+    "elapsed": 76.79120755195618,
+    "code_saved": true,
+    "usage": {
+      "input": 12942,
+      "output": 6922,
+      "cache_read": 0,
+      "cache_write": 0
+    }
+  },
+  {
+    "task_id": 88,
+    "status": "SUCCESS (267/267) attempt=0",
+    "elapsed": 11.653295993804932,
+    "code_saved": true,
+    "usage": {
+      "input": 3899,
+      "output": 788,
+      "cache_read": 0,
+      "cache_write": 0
+    }
+  },
+  {
+    "task_id": 89,
+    "status": "no code after 3 attempts",
+    "elapsed": 127.36150479316711,
+    "code_saved": false,
+    "usage": {
+      "input": 30458,
+      "output": 12287,
+      "cache_read": 0,
+      "cache_write": 0
+    }
+  },
+  {
+    "task_id": 90,
+    "status": "SUCCESS (267/267) attempt=0",
+    "elapsed": 42.11568641662598,
+    "code_saved": true,
+    "usage": {
+      "input": 2963,
+      "output": 3430,
+      "cache_read": 0,
+      "cache_write": 0
+    }
+  },
+  {
+    "task_id": 91,
+    "status": "SUCCESS (266/266) attempt=1",
+    "elapsed": 51.698789834976196,
+    "code_saved": true,
+    "usage": {
+      "input": 10281,
+      "output": 4855,
+      "cache_read": 0,
+      "cache_write": 0
+    }
+  },
+  {
+    "task_id": 92,
+    "status": "SUCCESS (265/265) attempt=0",
+    "elapsed": 22.369084119796753,
+    "code_saved": true,
+    "usage": {
+      "input": 11345,
+      "output": 1972,
+      "cache_read": 0,
+      "cache_write": 0
+    }
+  },
+  {
+    "task_id": 93,
+    "status": "SUCCESS (265/265) attempt=1",
+    "elapsed": 51.01778769493103,
+    "code_saved": true,
+    "usage": {
+      "input": 17828,
+      "output": 4690,
+      "cache_read": 0,
+      "cache_write": 0
+    }
+  },
+  {
+    "task_id": 94,
+    "status": "SUCCESS (265/265) attempt=0",
+    "elapsed": 10.5379056930542,
+    "code_saved": true,
+    "usage": {
+      "input": 7745,
+      "output": 731,
+      "cache_read": 0,
+      "cache_write": 0
+    }
+  },
+  {
+    "task_id": 96,
+    "status": "no code after 3 attempts",
+    "elapsed": 155.3487672805786,
+    "code_saved": false,
+    "usage": {
+      "input": 31755,
+      "output": 12288,
+      "cache_read": 0,
+      "cache_write": 0
+    }
+  },
+  {
+    "task_id": 99,
+    "status": "SUCCESS (265/265) attempt=0",
+    "elapsed": 23.50857949256897,
+    "code_saved": true,
+    "usage": {
+      "input": 3845,
+      "output": 2030,
+      "cache_read": 0,
+      "cache_write": 0
+    }
+  },
+  {
+    "task_id": 100,
+    "status": "SUCCESS (266/266) attempt=1",
+    "elapsed": 13.57893180847168,
+    "code_saved": true,
+    "usage": {
+      "input": 5612,
+      "output": 1231,
+      "cache_read": 0,
+      "cache_write": 0
+    }
+  },
+  {
+    "task_id": 101,
+    "status": "FAILED (120/266)",
+    "elapsed": 99.76682043075562,
+    "code_saved": true,
+    "usage": {
+      "input": 35229,
+      "output": 9427,
+      "cache_read": 0,
+      "cache_write": 0
+    }
+  },
+  {
+    "task_id": 103,
+    "status": "SUCCESS (223/223) attempt=1",
+    "elapsed": 11.653179168701172,
+    "code_saved": true,
+    "usage": {
+      "input": 1879,
+      "output": 910,
+      "cache_read": 0,
+      "cache_write": 0
+    }
+  },
+  {
+    "task_id": 104,
+    "status": "SUCCESS (7/7) attempt=1",
+    "elapsed": 52.94521689414978,
+    "code_saved": true,
+    "usage": {
+      "input": 8299,
+      "output": 4724,
+      "cache_read": 0,
+      "cache_write": 0
+    }
+  },
+  {
+    "task_id": 105,
+    "status": "FAILED (87/266)",
+    "elapsed": 57.980473279953,
+    "code_saved": true,
+    "usage": {
+      "input": 23697,
+      "output": 5191,
+      "cache_read": 0,
+      "cache_write": 0
+    }
+  },
+  {
+    "task_id": 107,
+    "status": "SUCCESS (266/266) attempt=2",
+    "elapsed": 99.0058057308197,
+    "code_saved": true,
+    "usage": {
+      "input": 30369,
+      "output": 8938,
+      "cache_read": 0,
+      "cache_write": 0
+    }
+  },
+  {
+    "task_id": 108,
+    "status": "SUCCESS (266/266) attempt=1",
+    "elapsed": 17.38127064704895,
+    "code_saved": true,
+    "usage": {
+      "input": 18781,
+      "output": 1481,
+      "cache_read": 0,
+      "cache_write": 0
+    }
+  },
+  {
+    "task_id": 109,
+    "status": "SUCCESS (266/266) attempt=0",
+    "elapsed": 29.713438749313354,
+    "code_saved": true,
+    "usage": {
+      "input": 3359,
+      "output": 2649,
+      "cache_read": 0,
+      "cache_write": 0
+    }
+  },
+  {
+    "task_id": 110,
+    "status": "SUCCESS (266/266) attempt=0",
+    "elapsed": 32.348525047302246,
+    "code_saved": true,
+    "usage": {
+      "input": 26645,
+      "output": 2675,
+      "cache_read": 0,
+      "cache_write": 0
+    }
+  },
+  {
+    "task_id": 111,
+    "status": "SUCCESS (265/265) attempt=0",
+    "elapsed": 15.02253007888794,
+    "code_saved": true,
+    "usage": {
+      "input": 2375,
+      "output": 1460,
+      "cache_read": 0,
+      "cache_write": 0
+    }
+  },
+  {
+    "task_id": 112,
+    "status": "SUCCESS (266/266) attempt=0",
+    "elapsed": 22.918532371520996,
+    "code_saved": true,
+    "usage": {
+      "input": 9641,
+      "output": 1822,
+      "cache_read": 0,
+      "cache_write": 0
+    }
+  },
+  {
+    "task_id": 114,
+    "status": "SUCCESS (266/266) attempt=0",
+    "elapsed": 10.463632345199585,
+    "code_saved": true,
+    "usage": {
+      "input": 1049,
+      "output": 838,
+      "cache_read": 0,
+      "cache_write": 0
+    }
+  },
+  {
+    "task_id": 115,
+    "status": "SUCCESS (266/266) attempt=0",
+    "elapsed": 7.723292112350464,
+    "code_saved": true,
+    "usage": {
+      "input": 2972,
+      "output": 603,
+      "cache_read": 0,
+      "cache_write": 0
+    }
+  },
+  {
+    "task_id": 117,
+    "status": "SUCCESS (265/265) attempt=1",
+    "elapsed": 80.68039345741272,
+    "code_saved": true,
+    "usage": {
+      "input": 17547,
+      "output": 7104,
+      "cache_read": 0,
+      "cache_write": 0
+    }
+  },
+  {
+    "task_id": 118,
+    "status": "no code after 3 attempts",
+    "elapsed": 145.06827020645142,
+    "code_saved": false,
+    "usage": {
+      "input": 46839,
+      "output": 12288,
+      "cache_read": 0,
+      "cache_write": 0
+    }
+  },
+  {
+    "task_id": 119,
+    "status": "SUCCESS (266/266) attempt=2",
+    "elapsed": 98.12426948547363,
+    "code_saved": true,
+    "usage": {
+      "input": 28111,
+      "output": 8727,
+      "cache_read": 0,
+      "cache_write": 0
+    }
+  },
+  {
+    "task_id": 121,
+    "status": "SUCCESS (266/266) attempt=0",
+    "elapsed": 12.283079624176025,
+    "code_saved": true,
+    "usage": {
+      "input": 3455,
+      "output": 981,
+      "cache_read": 0,
+      "cache_write": 0
+    }
+  },
+  {
+    "task_id": 123,
+    "status": "SUCCESS (265/265) attempt=0",
+    "elapsed": 38.31147241592407,
+    "code_saved": true,
+    "usage": {
+      "input": 2645,
+      "output": 3314,
+      "cache_read": 0,
+      "cache_write": 0
+    }
+  },
+  {
+    "task_id": 124,
+    "status": "SUCCESS (267/267) attempt=0",
+    "elapsed": 43.09472370147705,
+    "code_saved": true,
+    "usage": {
+      "input": 3251,
+      "output": 3912,
+      "cache_read": 0,
+      "cache_write": 0
+    }
+  },
+  {
+    "task_id": 125,
+    "status": "SUCCESS (265/265) attempt=1",
+    "elapsed": 49.94536542892456,
+    "code_saved": true,
+    "usage": {
+      "input": 19638,
+      "output": 4717,
+      "cache_read": 0,
+      "cache_write": 0
+    }
+  },
+  {
+    "task_id": 126,
+    "status": "SUCCESS (266/266) attempt=0",
+    "elapsed": 8.157869100570679,
+    "code_saved": true,
+    "usage": {
+      "input": 2381,
+      "output": 399,
+      "cache_read": 0,
+      "cache_write": 0
+    }
+  },
+  {
+    "task_id": 128,
+    "status": "SUCCESS (266/266) attempt=0",
+    "elapsed": 16.980251789093018,
+    "code_saved": true,
+    "usage": {
+      "input": 7745,
+      "output": 1620,
+      "cache_read": 0,
+      "cache_write": 0
+    }
+  },
+  {
+    "task_id": 129,
+    "status": "SUCCESS (265/265) attempt=0",
+    "elapsed": 1.5287644863128662,
+    "code_saved": true,
+    "usage": {
+      "input": 905,
+      "output": 77,
+      "cache_read": 0,
+      "cache_write": 0
+    }
+  },
+  {
+    "task_id": 130,
+    "status": "SUCCESS (265/265) attempt=0",
+    "elapsed": 8.387892007827759,
+    "code_saved": true,
+    "usage": {
+      "input": 2075,
+      "output": 652,
+      "cache_read": 0,
+      "cache_write": 0
+    }
+  },
+  {
+    "task_id": 131,
+    "status": "SUCCESS (266/266) attempt=0",
+    "elapsed": 38.03784799575806,
+    "code_saved": true,
+    "usage": {
+      "input": 3089,
+      "output": 4005,
+      "cache_read": 0,
+      "cache_write": 0
+    }
+  },
+  {
+    "task_id": 132,
+    "status": "SUCCESS (267/267) attempt=0",
+    "elapsed": 6.007101058959961,
+    "code_saved": true,
+    "usage": {
+      "input": 3161,
+      "output": 539,
+      "cache_read": 0,
+      "cache_write": 0
+    }
+  },
+  {
+    "task_id": 133,
+    "status": "no code after 3 attempts",
+    "elapsed": 142.60291242599487,
+    "code_saved": false,
+    "usage": {
+      "input": 44841,
+      "output": 12288,
+      "cache_read": 0,
+      "cache_write": 0
+    }
+  },
+  {
+    "task_id": 134,
+    "status": "SUCCESS (266/266) attempt=1",
+    "elapsed": 50.82166576385498,
+    "code_saved": true,
+    "usage": {
+      "input": 22440,
+      "output": 4531,
+      "cache_read": 0,
+      "cache_write": 0
+    }
+  },
+  {
+    "task_id": 136,
+    "status": "SUCCESS (266/266) attempt=0",
+    "elapsed": 35.769094705581665,
+    "code_saved": true,
+    "usage": {
+      "input": 3845,
+      "output": 3366,
+      "cache_read": 0,
+      "cache_write": 0
+    }
+  },
+  {
+    "task_id": 137,
+    "status": "no code after 3 attempts",
+    "elapsed": 136.631245136261,
+    "code_saved": false,
+    "usage": {
+      "input": 73119,
+      "output": 12288,
+      "cache_read": 0,
+      "cache_write": 0
+    }
+  },
+  {
+    "task_id": 138,
+    "status": "no code after 3 attempts",
+    "elapsed": 138.76832842826843,
+    "code_saved": false,
+    "usage": {
+      "input": 30574,
+      "output": 12287,
+      "cache_read": 0,
+      "cache_write": 0
+    }
+  },
+  {
+    "task_id": 141,
+    "status": "SUCCESS (265/265) attempt=0",
+    "elapsed": 28.00052762031555,
+    "code_saved": true,
+    "usage": {
+      "input": 8369,
+      "output": 2388,
+      "cache_read": 0,
+      "cache_write": 0
+    }
+  },
+  {
+    "task_id": 143,
+    "status": "SUCCESS (266/266) attempt=1",
+    "elapsed": 53.17427206039429,
+    "code_saved": true,
+    "usage": {
+      "input": 11829,
+      "output": 4844,
+      "cache_read": 0,
+      "cache_write": 0
+    }
+  },
+  {
+    "task_id": 144,
+    "status": "SUCCESS (267/267) attempt=0",
+    "elapsed": 9.158180475234985,
+    "code_saved": true,
+    "usage": {
+      "input": 1520,
+      "output": 713,
+      "cache_read": 0,
+      "cache_write": 0
+    }
+  },
+  {
+    "task_id": 145,
+    "status": "no code after 3 attempts",
+    "elapsed": 144.87789463996887,
+    "code_saved": false,
+    "usage": {
+      "input": 33320,
+      "output": 12287,
+      "cache_read": 0,
+      "cache_write": 0
+    }
+  },
+  {
+    "task_id": 146,
+    "status": "no code after 3 attempts",
+    "elapsed": 140.80463790893555,
+    "code_saved": false,
+    "usage": {
+      "input": 16239,
+      "output": 12288,
+      "cache_read": 0,
+      "cache_write": 0
+    }
+  },
+  {
+    "task_id": 148,
+    "status": "SUCCESS (266/266) attempt=0",
+    "elapsed": 39.66180896759033,
+    "code_saved": true,
+    "usage": {
+      "input": 7175,
+      "output": 3660,
+      "cache_read": 0,
+      "cache_write": 0
+    }
+  },
+  {
+    "task_id": 149,
+    "status": "SUCCESS (267/267) attempt=0",
+    "elapsed": 8.389129877090454,
+    "code_saved": true,
+    "usage": {
+      "input": 2705,
+      "output": 752,
+      "cache_read": 0,
+      "cache_write": 0
+    }
+  },
+  {
+    "task_id": 153,
+    "status": "SUCCESS (265/265) attempt=1",
+    "elapsed": 75.60020542144775,
+    "code_saved": true,
+    "usage": {
+      "input": 8898,
+      "output": 7162,
+      "cache_read": 0,
+      "cache_write": 0
+    }
+  },
+  {
+    "task_id": 154,
+    "status": "SUCCESS (266/266) attempt=1",
+    "elapsed": 69.81739616394043,
+    "code_saved": true,
+    "usage": {
+      "input": 19638,
+      "output": 6079,
+      "cache_read": 0,
+      "cache_write": 0
+    }
+  },
+  {
+    "task_id": 156,
+    "status": "SUCCESS (265/265) attempt=0",
+    "elapsed": 11.47109079360962,
+    "code_saved": true,
+    "usage": {
+      "input": 3845,
+      "output": 1042,
+      "cache_read": 0,
+      "cache_write": 0
+    }
+  },
+  {
+    "task_id": 157,
+    "status": "no code after 3 attempts",
+    "elapsed": 139.90036416053772,
+    "code_saved": false,
+    "usage": {
+      "input": 28479,
+      "output": 12288,
+      "cache_read": 0,
+      "cache_write": 0
+    }
+  },
+  {
+    "task_id": 158,
+    "status": "FAILED (87/266)",
+    "elapsed": 111.68307852745056,
+    "code_saved": true,
+    "usage": {
+      "input": 56505,
+      "output": 10273,
+      "cache_read": 0,
+      "cache_write": 0
+    }
+  },
+  {
+    "task_id": 159,
+    "status": "SUCCESS (265/265) attempt=0",
+    "elapsed": 19.903284072875977,
+    "code_saved": true,
+    "usage": {
+      "input": 9731,
+      "output": 1743,
+      "cache_read": 0,
+      "cache_write": 0
+    }
+  },
+  {
+    "task_id": 161,
+    "status": "SUCCESS (266/266) attempt=0",
+    "elapsed": 38.384101152420044,
+    "code_saved": true,
+    "usage": {
+      "input": 8825,
+      "output": 3411,
+      "cache_read": 0,
+      "cache_write": 0
+    }
+  },
+  {
+    "task_id": 162,
+    "status": "SUCCESS (266/266) attempt=2",
+    "elapsed": 51.53963255882263,
+    "code_saved": true,
+    "usage": {
+      "input": 49081,
+      "output": 4465,
+      "cache_read": 0,
+      "cache_write": 0
+    }
+  },
+  {
+    "task_id": 163,
+    "status": "SUCCESS (267/267) attempt=0",
+    "elapsed": 29.728446006774902,
+    "code_saved": true,
+    "usage": {
+      "input": 4505,
+      "output": 2572,
+      "cache_read": 0,
+      "cache_write": 0
+    }
+  },
+  {
+    "task_id": 165,
+    "status": "no code after 3 attempts",
+    "elapsed": 148.28749012947083,
+    "code_saved": false,
+    "usage": {
+      "input": 51882,
+      "output": 12288,
+      "cache_read": 0,
+      "cache_write": 0
+    }
+  },
+  {
+    "task_id": 166,
+    "status": "SUCCESS (266/266) attempt=0",
+    "elapsed": 12.304694175720215,
+    "code_saved": true,
+    "usage": {
+      "input": 3683,
+      "output": 952,
+      "cache_read": 0,
+      "cache_write": 0
+    }
+  },
+  {
+    "task_id": 167,
+    "status": "SUCCESS (268/268) attempt=0",
+    "elapsed": 4.600688219070435,
+    "code_saved": true,
+    "usage": {
+      "input": 905,
+      "output": 349,
+      "cache_read": 0,
+      "cache_write": 0
+    }
+  },
+  {
+    "task_id": 168,
+    "status": "SUCCESS (265/265) attempt=2",
+    "elapsed": 91.0499632358551,
+    "code_saved": true,
+    "usage": {
+      "input": 23671,
+      "output": 8225,
+      "cache_read": 0,
+      "cache_write": 0
+    }
+  },
+  {
+    "task_id": 169,
+    "status": "SUCCESS (266/266) attempt=0",
+    "elapsed": 14.406969785690308,
+    "code_saved": true,
+    "usage": {
+      "input": 3845,
+      "output": 1251,
+      "cache_read": 0,
+      "cache_write": 0
+    }
+  },
+  {
+    "task_id": 170,
+    "status": "SUCCESS (266/266) attempt=2",
+    "elapsed": 81.49490880966187,
+    "code_saved": true,
+    "usage": {
+      "input": 38741,
+      "output": 7352,
+      "cache_read": 0,
+      "cache_write": 0
+    }
+  },
+  {
+    "task_id": 173,
+    "status": "SUCCESS (266/266) attempt=2",
+    "elapsed": 118.61127591133118,
+    "code_saved": true,
+    "usage": {
+      "input": 40233,
+      "output": 10357,
+      "cache_read": 0,
+      "cache_write": 0
+    }
+  },
+  {
+    "task_id": 174,
+    "status": "SUCCESS (266/266) attempt=1",
+    "elapsed": 34.71348285675049,
+    "code_saved": true,
+    "usage": {
+      "input": 7213,
+      "output": 3016,
+      "cache_read": 0,
+      "cache_write": 0
+    }
+  },
+  {
+    "task_id": 175,
+    "status": "no code after 3 attempts",
+    "elapsed": 133.28935718536377,
+    "code_saved": false,
+    "usage": {
+      "input": 55659,
+      "output": 12288,
+      "cache_read": 0,
+      "cache_write": 0
+    }
+  },
+  {
+    "task_id": 176,
+    "status": "SUCCESS (25/25) attempt=2",
+    "elapsed": 95.93302583694458,
+    "code_saved": true,
+    "usage": {
+      "input": 19200,
+      "output": 8411,
+      "cache_read": 0,
+      "cache_write": 0
+    }
+  },
+  {
+    "task_id": 177,
+    "status": "SUCCESS (265/265) attempt=0",
+    "elapsed": 8.52998161315918,
+    "code_saved": true,
+    "usage": {
+      "input": 4583,
+      "output": 775,
+      "cache_read": 0,
+      "cache_write": 0
+    }
+  },
+  {
+    "task_id": 178,
+    "status": "SUCCESS (268/268) attempt=0",
+    "elapsed": 5.926728010177612,
+    "code_saved": true,
+    "usage": {
+      "input": 884,
+      "output": 523,
+      "cache_read": 0,
+      "cache_write": 0
+    }
+  },
+  {
+    "task_id": 180,
+    "status": "SUCCESS (268/268) attempt=2",
+    "elapsed": 80.81609988212585,
+    "code_saved": true,
+    "usage": {
+      "input": 18219,
+      "output": 8528,
+      "cache_read": 0,
+      "cache_write": 0
+    }
+  },
+  {
+    "task_id": 181,
+    "status": "SUCCESS (266/266) attempt=0",
+    "elapsed": 30.914426803588867,
+    "code_saved": true,
+    "usage": {
+      "input": 2345,
+      "output": 3137,
+      "cache_read": 0,
+      "cache_write": 0
+    }
+  },
+  {
+    "task_id": 182,
+    "status": "no code after 3 attempts",
+    "elapsed": 133.62113165855408,
+    "code_saved": false,
+    "usage": {
+      "input": 51879,
+      "output": 12287,
+      "cache_read": 0,
+      "cache_write": 0
+    }
+  },
+  {
+    "task_id": 183,
+    "status": "SUCCESS (265/265) attempt=0",
+    "elapsed": 21.481600761413574,
+    "code_saved": true,
+    "usage": {
+      "input": 2153,
+      "output": 1910,
+      "cache_read": 0,
+      "cache_write": 0
+    }
+  },
+  {
+    "task_id": 184,
+    "status": "SUCCESS (266/266) attempt=0",
+    "elapsed": 6.83031153678894,
+    "code_saved": true,
+    "usage": {
+      "input": 7232,
+      "output": 509,
+      "cache_read": 0,
+      "cache_write": 0
+    }
+  },
+  {
+    "task_id": 185,
+    "status": "SUCCESS (267/267) attempt=1",
+    "elapsed": 90.33100485801697,
+    "code_saved": true,
+    "usage": {
+      "input": 30331,
+      "output": 8172,
+      "cache_read": 0,
+      "cache_write": 0
+    }
+  },
+  {
+    "task_id": 187,
+    "status": "SUCCESS (266/266) attempt=2",
+    "elapsed": 100.61197400093079,
+    "code_saved": true,
+    "usage": {
+      "input": 62823,
+      "output": 8731,
+      "cache_read": 0,
+      "cache_write": 0
+    }
+  },
+  {
+    "task_id": 188,
+    "status": "SUCCESS (266/266) attempt=2",
+    "elapsed": 30.386988401412964,
+    "code_saved": true,
+    "usage": {
+      "input": 5208,
+      "output": 2419,
+      "cache_read": 0,
+      "cache_write": 0
+    }
+  },
+  {
+    "task_id": 189,
+    "status": "SUCCESS (266/266) attempt=0",
+    "elapsed": 31.161841869354248,
+    "code_saved": true,
+    "usage": {
+      "input": 2525,
+      "output": 2972,
+      "cache_read": 0,
+      "cache_write": 0
+    }
+  },
+  {
+    "task_id": 190,
+    "status": "SUCCESS (266/266) attempt=0",
+    "elapsed": 15.052138328552246,
+    "code_saved": true,
+    "usage": {
+      "input": 3845,
+      "output": 1374,
+      "cache_read": 0,
+      "cache_write": 0
+    }
+  },
+  {
+    "task_id": 191,
+    "status": "no code after 3 attempts",
+    "elapsed": 135.7315263748169,
+    "code_saved": false,
+    "usage": {
+      "input": 63758,
+      "output": 12287,
+      "cache_read": 0,
+      "cache_write": 0
+    }
+  },
+  {
+    "task_id": 195,
+    "status": "SUCCESS (265/265) attempt=1",
+    "elapsed": 46.02137041091919,
+    "code_saved": true,
+    "usage": {
+      "input": 17492,
+      "output": 4366,
+      "cache_read": 0,
+      "cache_write": 0
+    }
+  },
+  {
+    "task_id": 196,
+    "status": "SUCCESS (266/266) attempt=0",
+    "elapsed": 41.14449095726013,
+    "code_saved": true,
+    "usage": {
+      "input": 6341,
+      "output": 3632,
+      "cache_read": 0,
+      "cache_write": 0
+    }
+  },
+  {
+    "task_id": 197,
+    "status": "SUCCESS (267/267) attempt=0",
+    "elapsed": 19.66268277168274,
+    "code_saved": true,
+    "usage": {
+      "input": 3521,
+      "output": 1510,
+      "cache_read": 0,
+      "cache_write": 0
+    }
+  },
+  {
+    "task_id": 198,
+    "status": "no code after 3 attempts",
+    "elapsed": 127.19346451759338,
+    "code_saved": false,
+    "usage": {
+      "input": 66495,
+      "output": 12288,
+      "cache_read": 0,
+      "cache_write": 0
+    }
+  },
+  {
+    "task_id": 200,
+    "status": "no code after 3 attempts",
+    "elapsed": 147.2400302886963,
+    "code_saved": false,
+    "usage": {
+      "input": 23979,
+      "output": 12288,
+      "cache_read": 0,
+      "cache_write": 0
+    }
+  },
+  {
+    "task_id": 201,
+    "status": "no code after 3 attempts",
+    "elapsed": 127.57104063034058,
+    "code_saved": false,
+    "usage": {
+      "input": 24373,
+      "output": 12287,
+      "cache_read": 0,
+      "cache_write": 0
+    }
+  },
+  {
+    "task_id": 202,
+    "status": "SUCCESS (267/267) attempt=0",
+    "elapsed": 21.11841344833374,
+    "code_saved": true,
+    "usage": {
+      "input": 7745,
+      "output": 1750,
+      "cache_read": 0,
+      "cache_write": 0
+    }
+  },
+  {
+    "task_id": 203,
+    "status": "SUCCESS (267/267) attempt=0",
+    "elapsed": 4.52138090133667,
+    "code_saved": true,
+    "usage": {
+      "input": 4085,
+      "output": 287,
+      "cache_read": 0,
+      "cache_write": 0
+    }
+  },
+  {
+    "task_id": 204,
+    "status": "SUCCESS (268/268) attempt=0",
+    "elapsed": 21.73605751991272,
+    "code_saved": true,
+    "usage": {
+      "input": 6617,
+      "output": 1903,
+      "cache_read": 0,
+      "cache_write": 0
+    }
+  },
+  {
+    "task_id": 205,
+    "status": "no code after 3 attempts",
+    "elapsed": 108.47557282447815,
+    "code_saved": false,
+    "usage": {
+      "input": 35619,
+      "output": 9047,
+      "cache_read": 0,
+      "cache_write": 0
+    }
+  },
+  {
+    "task_id": 206,
+    "status": "SUCCESS (266/266) attempt=0",
+    "elapsed": 34.92062783241272,
+    "code_saved": true,
+    "usage": {
+      "input": 3233,
+      "output": 3153,
+      "cache_read": 0,
+      "cache_write": 0
+    }
+  },
+  {
+    "task_id": 207,
+    "status": "SUCCESS (265/265) attempt=0",
+    "elapsed": 15.502438306808472,
+    "code_saved": true,
+    "usage": {
+      "input": 1085,
+      "output": 1630,
+      "cache_read": 0,
+      "cache_write": 0
+    }
+  },
+  {
+    "task_id": 208,
+    "status": "no code after 3 attempts",
+    "elapsed": 100.30317187309265,
+    "code_saved": false,
+    "usage": {
+      "input": 55225,
+      "output": 9063,
+      "cache_read": 0,
+      "cache_write": 0
+    }
+  },
+  {
+    "task_id": 209,
+    "status": "no code after 3 attempts",
+    "elapsed": 135.98942375183105,
+    "code_saved": false,
+    "usage": {
+      "input": 35535,
+      "output": 11834,
+      "cache_read": 0,
+      "cache_write": 0
+    }
+  },
+  {
+    "task_id": 211,
+    "status": "SUCCESS (266/266) attempt=0",
+    "elapsed": 18.647334098815918,
+    "code_saved": true,
+    "usage": {
+      "input": 1355,
+      "output": 1735,
+      "cache_read": 0,
+      "cache_write": 0
+    }
+  },
+  {
+    "task_id": 212,
+    "status": "SUCCESS (265/265) attempt=0",
+    "elapsed": 26.022173643112183,
+    "code_saved": true,
+    "usage": {
+      "input": 3845,
+      "output": 2380,
+      "cache_read": 0,
+      "cache_write": 0
+    }
+  },
+  {
+    "task_id": 213,
+    "status": "SUCCESS (265/265) attempt=2",
+    "elapsed": 130.44488906860352,
+    "code_saved": true,
+    "usage": {
+      "input": 25792,
+      "output": 10801,
+      "cache_read": 0,
+      "cache_write": 0
+    }
+  },
+  {
+    "task_id": 214,
+    "status": "SUCCESS (266/266) attempt=0",
+    "elapsed": 36.42808198928833,
+    "code_saved": true,
+    "usage": {
+      "input": 1625,
+      "output": 3706,
+      "cache_read": 0,
+      "cache_write": 0
+    }
+  },
+  {
+    "task_id": 215,
+    "status": "SUCCESS (265/265) attempt=0",
+    "elapsed": 16.768893480300903,
+    "code_saved": true,
+    "usage": {
+      "input": 6635,
+      "output": 1375,
+      "cache_read": 0,
+      "cache_write": 0
+    }
+  },
+  {
+    "task_id": 216,
+    "status": "SUCCESS (266/266) attempt=0",
+    "elapsed": 25.48278021812439,
+    "code_saved": true,
+    "usage": {
+      "input": 7931,
+      "output": 2466,
+      "cache_read": 0,
+      "cache_write": 0
+    }
+  },
+  {
+    "task_id": 217,
+    "status": "SUCCESS (266/266) attempt=0",
+    "elapsed": 38.23508334159851,
+    "code_saved": true,
+    "usage": {
+      "input": 3245,
+      "output": 3537,
+      "cache_read": 0,
+      "cache_write": 0
+    }
+  },
+  {
+    "task_id": 218,
+    "status": "SUCCESS (266/266) attempt=0",
+    "elapsed": 9.904360055923462,
+    "code_saved": true,
+    "usage": {
+      "input": 7619,
+      "output": 574,
+      "cache_read": 0,
+      "cache_write": 0
+    }
+  },
+  {
+    "task_id": 219,
+    "status": "no code after 3 attempts",
+    "elapsed": 154.09762525558472,
+    "code_saved": false,
+    "usage": {
+      "input": 28929,
+      "output": 12288,
+      "cache_read": 0,
+      "cache_write": 0
+    }
+  },
+  {
+    "task_id": 221,
+    "status": "SUCCESS (267/267) attempt=0",
+    "elapsed": 16.151440620422363,
+    "code_saved": true,
+    "usage": {
+      "input": 4595,
+      "output": 1328,
+      "cache_read": 0,
+      "cache_write": 0
+    }
+  },
+  {
+    "task_id": 222,
+    "status": "SUCCESS (266/266) attempt=0",
+    "elapsed": 7.4834065437316895,
+    "code_saved": true,
+    "usage": {
+      "input": 8705,
+      "output": 486,
+      "cache_read": 0,
+      "cache_write": 0
+    }
+  },
+  {
+    "task_id": 224,
+    "status": "SUCCESS (266/266) attempt=0",
+    "elapsed": 18.582618713378906,
+    "code_saved": true,
+    "usage": {
+      "input": 6617,
+      "output": 1575,
+      "cache_read": 0,
+      "cache_write": 0
+    }
+  },
+  {
+    "task_id": 225,
+    "status": "SUCCESS (265/265) attempt=0",
+    "elapsed": 10.359253883361816,
+    "code_saved": true,
+    "usage": {
+      "input": 1805,
+      "output": 973,
+      "cache_read": 0,
+      "cache_write": 0
+    }
+  },
+  {
+    "task_id": 226,
+    "status": "SUCCESS (133/133) attempt=0",
+    "elapsed": 18.31339740753174,
+    "code_saved": true,
+    "usage": {
+      "input": 3845,
+      "output": 1662,
+      "cache_read": 0,
+      "cache_write": 0
+    }
+  },
+  {
+    "task_id": 227,
+    "status": "SUCCESS (267/267) attempt=0",
+    "elapsed": 12.004993915557861,
+    "code_saved": true,
+    "usage": {
+      "input": 1445,
+      "output": 922,
+      "cache_read": 0,
+      "cache_write": 0
+    }
+  },
+  {
+    "task_id": 228,
+    "status": "SUCCESS (266/266) attempt=0",
+    "elapsed": 27.914735555648804,
+    "code_saved": true,
+    "usage": {
+      "input": 3845,
+      "output": 2287,
+      "cache_read": 0,
+      "cache_write": 0
+    }
+  },
+  {
+    "task_id": 231,
+    "status": "SUCCESS (266/266) attempt=0",
+    "elapsed": 16.557713270187378,
+    "code_saved": true,
+    "usage": {
+      "input": 2495,
+      "output": 1310,
+      "cache_read": 0,
+      "cache_write": 0
+    }
+  },
+  {
+    "task_id": 232,
+    "status": "SUCCESS (266/266) attempt=0",
+    "elapsed": 3.1550564765930176,
+    "code_saved": true,
+    "usage": {
+      "input": 3485,
+      "output": 126,
+      "cache_read": 0,
+      "cache_write": 0
+    }
+  },
+  {
+    "task_id": 233,
+    "status": "no code after 3 attempts",
+    "elapsed": 133.45007157325745,
+    "code_saved": false,
+    "usage": {
+      "input": 39603,
+      "output": 12288,
+      "cache_read": 0,
+      "cache_write": 0
+    }
+  },
+  {
+    "task_id": 234,
+    "status": "FAILED (252/266)",
+    "elapsed": 105.16434288024902,
+    "code_saved": true,
+    "usage": {
+      "input": 38073,
+      "output": 9326,
+      "cache_read": 0,
+      "cache_write": 0
+    }
+  },
+  {
+    "task_id": 235,
+    "status": "SUCCESS (69/69) attempt=0",
+    "elapsed": 26.5255389213562,
+    "code_saved": true,
+    "usage": {
+      "input": 1625,
+      "output": 2585,
+      "cache_read": 0,
+      "cache_write": 0
+    }
+  },
+  {
+    "task_id": 237,
+    "status": "SUCCESS (266/266) attempt=0",
+    "elapsed": 8.806849479675293,
+    "code_saved": true,
+    "usage": {
+      "input": 1751,
+      "output": 690,
+      "cache_read": 0,
+      "cache_write": 0
+    }
+  },
+  {
+    "task_id": 238,
+    "status": "no code after 3 attempts",
+    "elapsed": 290.89018416404724,
+    "code_saved": false,
+    "usage": {
+      "input": 27300,
+      "output": 12288,
+      "cache_read": 0,
+      "cache_write": 0
+    }
+  },
+  {
+    "task_id": 239,
+    "status": "SUCCESS (267/267) attempt=0",
+    "elapsed": 13.737746953964233,
+    "code_saved": true,
+    "usage": {
+      "input": 1187,
+      "output": 1077,
+      "cache_read": 0,
+      "cache_write": 0
+    }
+  },
+  {
+    "task_id": 240,
+    "status": "SUCCESS (266/266) attempt=2",
+    "elapsed": 111.12964010238647,
+    "code_saved": true,
+    "usage": {
+      "input": 48279,
+      "output": 8929,
+      "cache_read": 0,
+      "cache_write": 0
+    }
+  },
+  {
+    "task_id": 242,
+    "status": "SUCCESS (266/266) attempt=0",
+    "elapsed": 5.709710359573364,
+    "code_saved": true,
+    "usage": {
+      "input": 4805,
+      "output": 370,
+      "cache_read": 0,
+      "cache_write": 0
+    }
+  },
+  {
+    "task_id": 243,
+    "status": "no code after 3 attempts",
+    "elapsed": 1956.8892402648926,
+    "code_saved": false,
+    "usage": {
+      "input": 34235,
+      "output": 8701,
+      "cache_read": 0,
+      "cache_write": 0
+    }
+  },
+  {
+    "task_id": 244,
+    "status": "SUCCESS (266/266) attempt=0",
+    "elapsed": 19.725078582763672,
+    "code_saved": true,
+    "usage": {
+      "input": 6047,
+      "output": 1703,
+      "cache_read": 0,
+      "cache_write": 0
+    }
+  },
+  {
+    "task_id": 245,
+    "status": "SUCCESS (267/267) attempt=0",
+    "elapsed": 15.949819564819336,
+    "code_saved": true,
+    "usage": {
+      "input": 3041,
+      "output": 1290,
+      "cache_read": 0,
+      "cache_write": 0
+    }
+  },
+  {
+    "task_id": 246,
+    "status": "SUCCESS (266/266) attempt=0",
+    "elapsed": 15.332835674285889,
+    "code_saved": true,
+    "usage": {
+      "input": 6419,
+      "output": 1375,
+      "cache_read": 0,
+      "cache_write": 0
+    }
+  },
+  {
+    "task_id": 247,
+    "status": "SUCCESS (269/269) attempt=0",
+    "elapsed": 23.375638723373413,
+    "code_saved": true,
+    "usage": {
+      "input": 2411,
+      "output": 1872,
+      "cache_read": 0,
+      "cache_write": 0
+    }
+  },
+  {
+    "task_id": 248,
+    "status": "SUCCESS (13/13) attempt=0",
+    "elapsed": 9.38268518447876,
+    "code_saved": true,
+    "usage": {
+      "input": 2285,
+      "output": 940,
+      "cache_read": 0,
+      "cache_write": 0
+    }
+  },
+  {
+    "task_id": 250,
+    "status": "SUCCESS (265/265) attempt=0",
+    "elapsed": 25.198771715164185,
+    "code_saved": true,
+    "usage": {
+      "input": 3845,
+      "output": 2250,
+      "cache_read": 0,
+      "cache_write": 0
+    }
+  },
+  {
+    "task_id": 251,
+    "status": "SUCCESS (266/266) attempt=0",
+    "elapsed": 20.584946393966675,
+    "code_saved": true,
+    "usage": {
+      "input": 3677,
+      "output": 1647,
+      "cache_read": 0,
+      "cache_write": 0
+    }
+  },
+  {
+    "task_id": 252,
+    "status": "SUCCESS (266/266) attempt=0",
+    "elapsed": 13.203666687011719,
+    "code_saved": true,
+    "usage": {
+      "input": 3029,
+      "output": 1161,
+      "cache_read": 0,
+      "cache_write": 0
+    }
+  },
+  {
+    "task_id": 253,
+    "status": "SUCCESS (265/265) attempt=0",
+    "elapsed": 31.336102724075317,
+    "code_saved": true,
+    "usage": {
+      "input": 3575,
+      "output": 2810,
+      "cache_read": 0,
+      "cache_write": 0
+    }
+  },
+  {
+    "task_id": 254,
+    "status": "SUCCESS (265/265) attempt=0",
+    "elapsed": 7.678008794784546,
+    "code_saved": true,
+    "usage": {
+      "input": 3245,
+      "output": 662,
+      "cache_read": 0,
+      "cache_write": 0
+    }
+  },
+  {
+    "task_id": 255,
+    "status": "no code after 3 attempts",
+    "elapsed": 129.9383509159088,
+    "code_saved": false,
+    "usage": {
+      "input": 97779,
+      "output": 12288,
+      "cache_read": 0,
+      "cache_write": 0
+    }
+  },
+  {
+    "task_id": 256,
+    "status": "SUCCESS (266/266) attempt=0",
+    "elapsed": 8.81092381477356,
+    "code_saved": true,
+    "usage": {
+      "input": 2915,
+      "output": 662,
+      "cache_read": 0,
+      "cache_write": 0
+    }
+  },
+  {
+    "task_id": 257,
+    "status": "SUCCESS (269/269) attempt=0",
+    "elapsed": 34.120946168899536,
+    "code_saved": true,
+    "usage": {
+      "input": 2195,
+      "output": 3861,
+      "cache_read": 0,
+      "cache_write": 0
+    }
+  },
+  {
+    "task_id": 259,
+    "status": "SUCCESS (266/266) attempt=0",
+    "elapsed": 3.4021756649017334,
+    "code_saved": true,
+    "usage": {
+      "input": 1355,
+      "output": 156,
+      "cache_read": 0,
+      "cache_write": 0
+    }
+  },
+  {
+    "task_id": 260,
+    "status": "SUCCESS (266/266) attempt=1",
+    "elapsed": 82.70157146453857,
+    "code_saved": true,
+    "usage": {
+      "input": 11838,
+      "output": 7424,
+      "cache_read": 0,
+      "cache_write": 0
+    }
+  },
+  {
+    "task_id": 263,
+    "status": "SUCCESS (267/267) attempt=0",
+    "elapsed": 5.630223989486694,
+    "code_saved": true,
+    "usage": {
+      "input": 1418,
+      "output": 346,
+      "cache_read": 0,
+      "cache_write": 0
+    }
+  },
+  {
+    "task_id": 264,
+    "status": "no code after 3 attempts",
+    "elapsed": 91.91261076927185,
+    "code_saved": false,
+    "usage": {
+      "input": 26839,
+      "output": 8973,
+      "cache_read": 0,
+      "cache_write": 0
+    }
+  },
+  {
+    "task_id": 265,
+    "status": "no code after 3 attempts",
+    "elapsed": 84.92762684822083,
+    "code_saved": false,
+    "usage": {
+      "input": 43019,
+      "output": 8377,
+      "cache_read": 0,
+      "cache_write": 0
+    }
+  },
+  {
+    "task_id": 267,
+    "status": "SUCCESS (264/264) attempt=0",
+    "elapsed": 2.071550130844116,
+    "code_saved": true,
+    "usage": {
+      "input": 2225,
+      "output": 75,
+      "cache_read": 0,
+      "cache_write": 0
+    }
+  },
+  {
+    "task_id": 268,
+    "status": "SUCCESS (266/266) attempt=2",
+    "elapsed": 95.83494210243225,
+    "code_saved": true,
+    "usage": {
+      "input": 21054,
+      "output": 9115,
+      "cache_read": 0,
+      "cache_write": 0
+    }
+  },
+  {
+    "task_id": 269,
+    "status": "SUCCESS (266/266) attempt=0",
+    "elapsed": 6.3270063400268555,
+    "code_saved": true,
+    "usage": {
+      "input": 2435,
+      "output": 256,
+      "cache_read": 0,
+      "cache_write": 0
+    }
+  },
+  {
+    "task_id": 270,
+    "status": "SUCCESS (266/266) attempt=0",
+    "elapsed": 21.94311499595642,
+    "code_saved": true,
+    "usage": {
+      "input": 7745,
+      "output": 1924,
+      "cache_read": 0,
+      "cache_write": 0
+    }
+  },
+  {
+    "task_id": 271,
+    "status": "no code after 3 attempts",
+    "elapsed": 62.65171766281128,
+    "code_saved": false,
+    "usage": {
+      "input": 9796,
+      "output": 5700,
+      "cache_read": 0,
+      "cache_write": 0
+    }
+  },
+  {
+    "task_id": 273,
+    "status": "SUCCESS (266/266) attempt=0",
+    "elapsed": 4.740124225616455,
+    "code_saved": true,
+    "usage": {
+      "input": 3845,
+      "output": 381,
+      "cache_read": 0,
+      "cache_write": 0
+    }
+  },
+  {
+    "task_id": 274,
+    "status": "SUCCESS (269/269) attempt=0",
+    "elapsed": 43.58563804626465,
+    "code_saved": true,
+    "usage": {
+      "input": 1766,
+      "output": 3807,
+      "cache_read": 0,
+      "cache_write": 0
+    }
+  },
+  {
+    "task_id": 275,
+    "status": "SUCCESS (266/266) attempt=0",
+    "elapsed": 40.15200209617615,
+    "code_saved": true,
+    "usage": {
+      "input": 3413,
+      "output": 3891,
+      "cache_read": 0,
+      "cache_write": 0
+    }
+  },
+  {
+    "task_id": 277,
+    "status": "SUCCESS (266/266) attempt=1",
+    "elapsed": 52.15631461143494,
+    "code_saved": true,
+    "usage": {
+      "input": 11838,
+      "output": 4762,
+      "cache_read": 0,
+      "cache_write": 0
+    }
+  },
+  {
+    "task_id": 278,
+    "status": "SUCCESS (265/265) attempt=1",
+    "elapsed": 53.628695487976074,
+    "code_saved": true,
+    "usage": {
+      "input": 21906,
+      "output": 4747,
+      "cache_read": 0,
+      "cache_write": 0
+    }
+  },
+  {
+    "task_id": 279,
+    "status": "SUCCESS (266/266) attempt=0",
+    "elapsed": 33.12758708000183,
+    "code_saved": true,
+    "usage": {
+      "input": 5945,
+      "output": 3114,
+      "cache_read": 0,
+      "cache_write": 0
+    }
+  },
+  {
+    "task_id": 280,
+    "status": "SUCCESS (267/267) attempt=2",
+    "elapsed": 98.62245917320251,
+    "code_saved": true,
+    "usage": {
+      "input": 46299,
+      "output": 9197,
+      "cache_read": 0,
+      "cache_write": 0
+    }
+  },
+  {
+    "task_id": 281,
+    "status": "SUCCESS (266/266) attempt=0",
+    "elapsed": 14.34934139251709,
+    "code_saved": true,
+    "usage": {
+      "input": 5171,
+      "output": 1241,
+      "cache_read": 0,
+      "cache_write": 0
+    }
+  },
+  {
+    "task_id": 284,
+    "status": "SUCCESS (266/266) attempt=1",
+    "elapsed": 60.41372466087341,
+    "code_saved": true,
+    "usage": {
+      "input": 15486,
+      "output": 5172,
+      "cache_read": 0,
+      "cache_write": 0
+    }
+  },
+  {
+    "task_id": 285,
+    "status": "no code after 3 attempts",
+    "elapsed": 134.94927072525024,
+    "code_saved": false,
+    "usage": {
+      "input": 69699,
+      "output": 12288,
+      "cache_read": 0,
+      "cache_write": 0
+    }
+  },
+  {
+    "task_id": 286,
+    "status": "SUCCESS (265/265) attempt=2",
+    "elapsed": 92.83451104164124,
+    "code_saved": true,
+    "usage": {
+      "input": 37740,
+      "output": 8731,
+      "cache_read": 0,
+      "cache_write": 0
+    }
+  },
+  {
+    "task_id": 287,
+    "status": "SUCCESS (267/267) attempt=0",
+    "elapsed": 4.664671897888184,
+    "code_saved": true,
+    "usage": {
+      "input": 8705,
+      "output": 257,
+      "cache_read": 0,
+      "cache_write": 0
+    }
+  },
+  {
+    "task_id": 288,
+    "status": "SUCCESS (267/267) attempt=0",
+    "elapsed": 25.38268280029297,
+    "code_saved": true,
+    "usage": {
+      "input": 1853,
+      "output": 2354,
+      "cache_read": 0,
+      "cache_write": 0
+    }
+  },
+  {
+    "task_id": 289,
+    "status": "SUCCESS (268/268) attempt=0",
+    "elapsed": 7.082619905471802,
+    "code_saved": true,
+    "usage": {
+      "input": 1985,
+      "output": 533,
+      "cache_read": 0,
+      "cache_write": 0
+    }
+  },
+  {
+    "task_id": 290,
+    "status": "SUCCESS (266/266) attempt=0",
+    "elapsed": 3.4765875339508057,
+    "code_saved": true,
+    "usage": {
+      "input": 3395,
+      "output": 284,
+      "cache_read": 0,
+      "cache_write": 0
+    }
+  },
+  {
+    "task_id": 291,
+    "status": "SUCCESS (265/265) attempt=0",
+    "elapsed": 4.602604627609253,
+    "code_saved": true,
+    "usage": {
+      "input": 4175,
+      "output": 334,
+      "cache_read": 0,
+      "cache_write": 0
+    }
+  },
+  {
+    "task_id": 292,
+    "status": "SUCCESS (28/28) attempt=0",
+    "elapsed": 12.524314165115356,
+    "code_saved": true,
+    "usage": {
+      "input": 1697,
+      "output": 1275,
+      "cache_read": 0,
+      "cache_write": 0
+    }
+  },
+  {
+    "task_id": 295,
+    "status": "SUCCESS (268/268) attempt=0",
+    "elapsed": 16.59569549560547,
+    "code_saved": true,
+    "usage": {
+      "input": 1130,
+      "output": 1317,
+      "cache_read": 0,
+      "cache_write": 0
+    }
+  },
+  {
+    "task_id": 296,
+    "status": "SUCCESS (268/268) attempt=0",
+    "elapsed": 38.045560121536255,
+    "code_saved": true,
+    "usage": {
+      "input": 1325,
+      "output": 3776,
+      "cache_read": 0,
+      "cache_write": 0
+    }
+  },
+  {
+    "task_id": 297,
+    "status": "SUCCESS (265/265) attempt=0",
+    "elapsed": 4.102831602096558,
+    "code_saved": true,
+    "usage": {
+      "input": 2165,
+      "output": 88,
+      "cache_read": 0,
+      "cache_write": 0
+    }
+  },
+  {
+    "task_id": 298,
+    "status": "SUCCESS (267/267) attempt=2",
+    "elapsed": 57.758862018585205,
+    "code_saved": true,
+    "usage": {
+      "input": 11971,
+      "output": 4797,
+      "cache_read": 0,
+      "cache_write": 0
+    }
+  },
+  {
+    "task_id": 300,
+    "status": "SUCCESS (267/267) attempt=0",
+    "elapsed": 8.081996202468872,
+    "code_saved": true,
+    "usage": {
+      "input": 1907,
+      "output": 772,
+      "cache_read": 0,
+      "cache_write": 0
+    }
+  },
+  {
+    "task_id": 301,
+    "status": "SUCCESS (266/266) attempt=1",
+    "elapsed": 16.109676837921143,
+    "code_saved": true,
+    "usage": {
+      "input": 5895,
+      "output": 1073,
+      "cache_read": 0,
+      "cache_write": 0
+    }
+  },
+  {
+    "task_id": 303,
+    "status": "SUCCESS (265/265) attempt=0",
+    "elapsed": 3.286585569381714,
+    "code_saved": true,
+    "usage": {
+      "input": 10925,
+      "output": 176,
+      "cache_read": 0,
+      "cache_write": 0
+    }
+  },
+  {
+    "task_id": 304,
+    "status": "SUCCESS (266/266) attempt=0",
+    "elapsed": 8.595621109008789,
+    "code_saved": true,
+    "usage": {
+      "input": 2075,
+      "output": 705,
+      "cache_read": 0,
+      "cache_write": 0
+    }
+  },
+  {
+    "task_id": 305,
+    "status": "SUCCESS (266/266) attempt=0",
+    "elapsed": 8.371596097946167,
+    "code_saved": true,
+    "usage": {
+      "input": 8705,
+      "output": 555,
+      "cache_read": 0,
+      "cache_write": 0
+    }
+  },
+  {
+    "task_id": 306,
+    "status": "SUCCESS (265/265) attempt=0",
+    "elapsed": 8.615369319915771,
+    "code_saved": true,
+    "usage": {
+      "input": 11945,
+      "output": 638,
+      "cache_read": 0,
+      "cache_write": 0
+    }
+  },
+  {
+    "task_id": 308,
+    "status": "SUCCESS (266/266) attempt=2",
+    "elapsed": 98.98802590370178,
+    "code_saved": true,
+    "usage": {
+      "input": 25752,
+      "output": 9106,
+      "cache_read": 0,
+      "cache_write": 0
+    }
+  },
+  {
+    "task_id": 310,
+    "status": "SUCCESS (266/266) attempt=0",
+    "elapsed": 31.27988028526306,
+    "code_saved": true,
+    "usage": {
+      "input": 11843,
+      "output": 2493,
+      "cache_read": 0,
+      "cache_write": 0
+    }
+  },
+  {
+    "task_id": 312,
+    "status": "SUCCESS (265/265) attempt=0",
+    "elapsed": 2.2145280838012695,
+    "code_saved": true,
+    "usage": {
+      "input": 5225,
+      "output": 108,
+      "cache_read": 0,
+      "cache_write": 0
+    }
+  },
+  {
+    "task_id": 313,
+    "status": "SUCCESS (266/266) attempt=1",
+    "elapsed": 83.569504737854,
+    "code_saved": true,
+    "usage": {
+      "input": 12965,
+      "output": 7595,
+      "cache_read": 0,
+      "cache_write": 0
+    }
+  },
+  {
+    "task_id": 315,
+    "status": "SUCCESS (266/266) attempt=0",
+    "elapsed": 12.611897230148315,
+    "code_saved": true,
+    "usage": {
+      "input": 2075,
+      "output": 745,
+      "cache_read": 0,
+      "cache_write": 0
+    }
+  },
+  {
+    "task_id": 316,
+    "status": "SUCCESS (266/266) attempt=0",
+    "elapsed": 20.95525336265564,
+    "code_saved": true,
+    "usage": {
+      "input": 2375,
+      "output": 1865,
+      "cache_read": 0,
+      "cache_write": 0
+    }
+  },
+  {
+    "task_id": 319,
+    "status": "no code after 3 attempts",
+    "elapsed": 138.64051294326782,
+    "code_saved": false,
+    "usage": {
+      "input": 29433,
+      "output": 12288,
+      "cache_read": 0,
+      "cache_write": 0
+    }
+  },
+  {
+    "task_id": 320,
+    "status": "SUCCESS (266/266) attempt=1",
+    "elapsed": 52.743810176849365,
+    "code_saved": true,
+    "usage": {
+      "input": 10758,
+      "output": 4740,
+      "cache_read": 0,
+      "cache_write": 0
+    }
+  },
+  {
+    "task_id": 321,
+    "status": "SUCCESS (267/267) attempt=0",
+    "elapsed": 12.79768443107605,
+    "code_saved": true,
+    "usage": {
+      "input": 1745,
+      "output": 1295,
+      "cache_read": 0,
+      "cache_write": 0
+    }
+  },
+  {
+    "task_id": 323,
+    "status": "SUCCESS (172/172) attempt=1",
+    "elapsed": 77.11633086204529,
+    "code_saved": true,
+    "usage": {
+      "input": 16158,
+      "output": 7698,
+      "cache_read": 0,
+      "cache_write": 0
+    }
+  },
+  {
+    "task_id": 324,
+    "status": "no code after 3 attempts",
+    "elapsed": 120.42987442016602,
+    "code_saved": false,
+    "usage": {
+      "input": 35572,
+      "output": 10432,
+      "cache_read": 0,
+      "cache_write": 0
+    }
+  },
+  {
+    "task_id": 325,
+    "status": "SUCCESS (266/266) attempt=1",
+    "elapsed": 52.61286902427673,
+    "code_saved": true,
+    "usage": {
+      "input": 7641,
+      "output": 4379,
+      "cache_read": 0,
+      "cache_write": 0
+    }
+  },
+  {
+    "task_id": 327,
+    "status": "SUCCESS (265/265) attempt=0",
+    "elapsed": 27.34191656112671,
+    "code_saved": true,
+    "usage": {
+      "input": 1355,
+      "output": 2428,
+      "cache_read": 0,
+      "cache_write": 0
+    }
+  },
+  {
+    "task_id": 328,
+    "status": "no code after 3 attempts",
+    "elapsed": 134.75303769111633,
+    "code_saved": false,
+    "usage": {
+      "input": 28659,
+      "output": 12288,
+      "cache_read": 0,
+      "cache_write": 0
+    }
+  },
+  {
+    "task_id": 329,
+    "status": "SUCCESS (266/266) attempt=0",
+    "elapsed": 17.412108421325684,
+    "code_saved": true,
+    "usage": {
+      "input": 1385,
+      "output": 1721,
+      "cache_read": 0,
+      "cache_write": 0
+    }
+  },
+  {
+    "task_id": 330,
+    "status": "SUCCESS (266/266) attempt=0",
+    "elapsed": 19.990967750549316,
+    "code_saved": true,
+    "usage": {
+      "input": 3845,
+      "output": 1768,
+      "cache_read": 0,
+      "cache_write": 0
+    }
+  },
+  {
+    "task_id": 332,
+    "status": "no code after 3 attempts",
+    "elapsed": 125.51403141021729,
+    "code_saved": false,
+    "usage": {
+      "input": 17912,
+      "output": 12288,
+      "cache_read": 0,
+      "cache_write": 0
+    }
+  },
+  {
+    "task_id": 333,
+    "status": "SUCCESS (265/265) attempt=0",
+    "elapsed": 27.145501852035522,
+    "code_saved": true,
+    "usage": {
+      "input": 3845,
+      "output": 2707,
+      "cache_read": 0,
+      "cache_write": 0
+    }
+  },
+  {
+    "task_id": 334,
+    "status": "no code after 3 attempts",
+    "elapsed": 140.89215421676636,
+    "code_saved": false,
+    "usage": {
+      "input": 15967,
+      "output": 12286,
+      "cache_read": 0,
+      "cache_write": 0
+    }
+  },
+  {
+    "task_id": 335,
+    "status": "SUCCESS (266/266) attempt=0",
+    "elapsed": 7.997057914733887,
+    "code_saved": true,
+    "usage": {
+      "input": 5027,
+      "output": 652,
+      "cache_read": 0,
+      "cache_write": 0
+    }
+  },
+  {
+    "task_id": 336,
+    "status": "SUCCESS (31/31) attempt=0",
+    "elapsed": 6.317772626876831,
+    "code_saved": true,
+    "usage": {
+      "input": 3845,
+      "output": 451,
+      "cache_read": 0,
+      "cache_write": 0
+    }
+  },
+  {
+    "task_id": 338,
+    "status": "SUCCESS (267/267) attempt=0",
+    "elapsed": 27.90966773033142,
+    "code_saved": true,
+    "usage": {
+      "input": 7865,
+      "output": 2731,
+      "cache_read": 0,
+      "cache_write": 0
+    }
+  },
+  {
+    "task_id": 339,
+    "status": "SUCCESS (266/266) attempt=0",
+    "elapsed": 3.626093864440918,
+    "code_saved": true,
+    "usage": {
+      "input": 785,
+      "output": 75,
+      "cache_read": 0,
+      "cache_write": 0
+    }
+  },
+  {
+    "task_id": 340,
+    "status": "SUCCESS (266/266) attempt=1",
+    "elapsed": 47.32642912864685,
+    "code_saved": true,
+    "usage": {
+      "input": 16569,
+      "output": 4399,
+      "cache_read": 0,
+      "cache_write": 0
+    }
+  },
+  {
+    "task_id": 341,
+    "status": "SUCCESS (266/266) attempt=0",
+    "elapsed": 31.16060996055603,
+    "code_saved": true,
+    "usage": {
+      "input": 3845,
+      "output": 3093,
+      "cache_read": 0,
+      "cache_write": 0
+    }
+  },
+  {
+    "task_id": 342,
+    "status": "SUCCESS (266/266) attempt=0",
+    "elapsed": 6.024425029754639,
+    "code_saved": true,
+    "usage": {
+      "input": 3845,
+      "output": 484,
+      "cache_read": 0,
+      "cache_write": 0
+    }
+  },
+  {
+    "task_id": 343,
+    "status": "SUCCESS (266/266) attempt=1",
+    "elapsed": 50.29061484336853,
+    "code_saved": true,
+    "usage": {
+      "input": 10029,
+      "output": 4336,
+      "cache_read": 0,
+      "cache_write": 0
+    }
+  },
+  {
+    "task_id": 345,
+    "status": "SUCCESS (264/264) attempt=1",
+    "elapsed": 72.08565282821655,
+    "code_saved": true,
+    "usage": {
+      "input": 11838,
+      "output": 6460,
+      "cache_read": 0,
+      "cache_write": 0
+    }
+  },
+  {
+    "task_id": 346,
+    "status": "SUCCESS (267/267) attempt=0",
+    "elapsed": 3.7898662090301514,
+    "code_saved": true,
+    "usage": {
+      "input": 2162,
+      "output": 248,
+      "cache_read": 0,
+      "cache_write": 0
+    }
+  },
+  {
+    "task_id": 348,
+    "status": "SUCCESS (265/265) attempt=0",
+    "elapsed": 36.47442388534546,
+    "code_saved": true,
+    "usage": {
+      "input": 2255,
+      "output": 3319,
+      "cache_read": 0,
+      "cache_write": 0
+    }
+  },
+  {
+    "task_id": 349,
+    "status": "no code after 3 attempts",
+    "elapsed": 133.18604063987732,
+    "code_saved": false,
+    "usage": {
+      "input": 52239,
+      "output": 12288,
+      "cache_read": 0,
+      "cache_write": 0
+    }
+  },
+  {
+    "task_id": 350,
+    "status": "SUCCESS (267/267) attempt=0",
+    "elapsed": 26.79720163345337,
+    "code_saved": true,
+    "usage": {
+      "input": 5789,
+      "output": 2401,
+      "cache_read": 0,
+      "cache_write": 0
+    }
+  },
+  {
+    "task_id": 351,
+    "status": "SUCCESS (265/265) attempt=0",
+    "elapsed": 28.710755586624146,
+    "code_saved": true,
+    "usage": {
+      "input": 5075,
+      "output": 2521,
+      "cache_read": 0,
+      "cache_write": 0
+    }
+  },
+  {
+    "task_id": 354,
+    "status": "SUCCESS (266/266) attempt=0",
+    "elapsed": 20.904890537261963,
+    "code_saved": true,
+    "usage": {
+      "input": 3845,
+      "output": 1893,
+      "cache_read": 0,
+      "cache_write": 0
+    }
+  },
+  {
+    "task_id": 355,
+    "status": "SUCCESS (267/267) attempt=1",
+    "elapsed": 52.82924842834473,
+    "code_saved": true,
+    "usage": {
+      "input": 11803,
+      "output": 4075,
+      "cache_read": 0,
+      "cache_write": 0
+    }
+  },
+  {
+    "task_id": 356,
+    "status": "SUCCESS (266/266) attempt=0",
+    "elapsed": 29.992801666259766,
+    "code_saved": true,
+    "usage": {
+      "input": 3845,
+      "output": 2771,
+      "cache_read": 0,
+      "cache_write": 0
+    }
+  },
+  {
+    "task_id": 357,
+    "status": "SUCCESS (13/13) attempt=0",
+    "elapsed": 11.769507884979248,
+    "code_saved": true,
+    "usage": {
+      "input": 2285,
+      "output": 1103,
+      "cache_read": 0,
+      "cache_write": 0
+    }
+  },
+  {
+    "task_id": 358,
+    "status": "SUCCESS (265/265) attempt=1",
+    "elapsed": 52.13505506515503,
+    "code_saved": true,
+    "usage": {
+      "input": 20528,
+      "output": 4583,
+      "cache_read": 0,
+      "cache_write": 0
+    }
+  },
+  {
+    "task_id": 359,
+    "status": "SUCCESS (266/266) attempt=0",
+    "elapsed": 23.235153913497925,
+    "code_saved": true,
+    "usage": {
+      "input": 7259,
+      "output": 1753,
+      "cache_read": 0,
+      "cache_write": 0
+    }
+  },
+  {
+    "task_id": 360,
+    "status": "SUCCESS (266/266) attempt=0",
+    "elapsed": 28.935619592666626,
+    "code_saved": true,
+    "usage": {
+      "input": 2795,
+      "output": 3362,
+      "cache_read": 0,
+      "cache_write": 0
+    }
+  },
+  {
+    "task_id": 361,
+    "status": "no code after 3 attempts",
+    "elapsed": 141.33987545967102,
+    "code_saved": false,
+    "usage": {
+      "input": 23979,
+      "output": 12288,
+      "cache_read": 0,
+      "cache_write": 0
+    }
+  },
+  {
+    "task_id": 362,
+    "status": "SUCCESS (267/267) attempt=0",
+    "elapsed": 9.547618865966797,
+    "code_saved": true,
+    "usage": {
+      "input": 3845,
+      "output": 715,
+      "cache_read": 0,
+      "cache_write": 0
+    }
+  },
+  {
+    "task_id": 363,
+    "status": "FAILED (223/265)",
+    "elapsed": 98.09747767448425,
+    "code_saved": true,
+    "usage": {
+      "input": 23979,
+      "output": 8705,
+      "cache_read": 0,
+      "cache_write": 0
+    }
+  },
+  {
+    "task_id": 364,
+    "status": "SUCCESS (266/266) attempt=2",
+    "elapsed": 99.97875666618347,
+    "code_saved": true,
+    "usage": {
+      "input": 36830,
+      "output": 9247,
+      "cache_read": 0,
+      "cache_write": 0
+    }
+  },
+  {
+    "task_id": 365,
+    "status": "SUCCESS (266/266) attempt=0",
+    "elapsed": 24.139113903045654,
+    "code_saved": true,
+    "usage": {
+      "input": 2558,
+      "output": 1980,
+      "cache_read": 0,
+      "cache_write": 0
+    }
+  },
+  {
+    "task_id": 366,
+    "status": "no code after 3 attempts",
+    "elapsed": 138.23806047439575,
+    "code_saved": false,
+    "usage": {
+      "input": 35877,
+      "output": 12288,
+      "cache_read": 0,
+      "cache_write": 0
+    }
+  },
+  {
+    "task_id": 367,
+    "status": "FAILED (140/266)",
+    "elapsed": 100.45536804199219,
+    "code_saved": true,
+    "usage": {
+      "input": 36471,
+      "output": 8967,
+      "cache_read": 0,
+      "cache_write": 0
+    }
+  },
+  {
+    "task_id": 368,
+    "status": "SUCCESS (265/265) attempt=0",
+    "elapsed": 10.984976291656494,
+    "code_saved": true,
+    "usage": {
+      "input": 3845,
+      "output": 932,
+      "cache_read": 0,
+      "cache_write": 0
+    }
+  },
+  {
+    "task_id": 369,
+    "status": "SUCCESS (265/265) attempt=0",
+    "elapsed": 9.62617802619934,
+    "code_saved": true,
+    "usage": {
+      "input": 3845,
+      "output": 888,
+      "cache_read": 0,
+      "cache_write": 0
+    }
+  },
+  {
+    "task_id": 370,
+    "status": "no code after 3 attempts",
+    "elapsed": 143.35623717308044,
+    "code_saved": false,
+    "usage": {
+      "input": 34005,
+      "output": 12288,
+      "cache_read": 0,
+      "cache_write": 0
+    }
+  },
+  {
+    "task_id": 371,
+    "status": "SUCCESS (266/266) attempt=0",
+    "elapsed": 4.61598801612854,
+    "code_saved": true,
+    "usage": {
+      "input": 3809,
+      "output": 395,
+      "cache_read": 0,
+      "cache_write": 0
+    }
+  },
+  {
+    "task_id": 374,
+    "status": "SUCCESS (267/267) attempt=0",
+    "elapsed": 5.784739255905151,
+    "code_saved": true,
+    "usage": {
+      "input": 3845,
+      "output": 453,
+      "cache_read": 0,
+      "cache_write": 0
+    }
+  },
+  {
+    "task_id": 375,
+    "status": "SUCCESS (58/58) attempt=0",
+    "elapsed": 7.34588885307312,
+    "code_saved": true,
+    "usage": {
+      "input": 3017,
+      "output": 124,
+      "cache_read": 0,
+      "cache_write": 0
+    }
+  },
+  {
+    "task_id": 376,
+    "status": "SUCCESS (39/39) attempt=0",
+    "elapsed": 11.9521963596344,
+    "code_saved": true,
+    "usage": {
+      "input": 4595,
+      "output": 805,
+      "cache_read": 0,
+      "cache_write": 0
+    }
+  },
+  {
+    "task_id": 377,
+    "status": "SUCCESS (266/266) attempt=0",
+    "elapsed": 40.42531394958496,
+    "code_saved": true,
+    "usage": {
+      "input": 10307,
+      "output": 3223,
+      "cache_read": 0,
+      "cache_write": 0
+    }
+  },
+  {
+    "task_id": 378,
+    "status": "SUCCESS (267/267) attempt=2",
+    "elapsed": 83.39717125892639,
+    "code_saved": true,
+    "usage": {
+      "input": 20354,
+      "output": 6909,
+      "cache_read": 0,
+      "cache_write": 0
+    }
+  },
+  {
+    "task_id": 379,
+    "status": "SUCCESS (266/266) attempt=1",
+    "elapsed": 84.09452390670776,
+    "code_saved": true,
+    "usage": {
+      "input": 20394,
+      "output": 7838,
+      "cache_read": 0,
+      "cache_write": 0
+    }
+  },
+  {
+    "task_id": 381,
+    "status": "SUCCESS (265/265) attempt=1",
+    "elapsed": 48.62225651741028,
+    "code_saved": true,
+    "usage": {
+      "input": 11838,
+      "output": 4770,
+      "cache_read": 0,
+      "cache_write": 0
+    }
+  },
+  {
+    "task_id": 382,
+    "status": "SUCCESS (266/266) attempt=2",
+    "elapsed": 94.62778687477112,
+    "code_saved": true,
+    "usage": {
+      "input": 31409,
+      "output": 8838,
+      "cache_read": 0,
+      "cache_write": 0
+    }
+  },
+  {
+    "task_id": 383,
+    "status": "FAILED (254/266)",
+    "elapsed": 106.81654739379883,
+    "code_saved": true,
+    "usage": {
+      "input": 41745,
+      "output": 9185,
+      "cache_read": 0,
+      "cache_write": 0
+    }
+  },
+  {
+    "task_id": 384,
+    "status": "SUCCESS (266/266) attempt=0",
+    "elapsed": 8.214907884597778,
+    "code_saved": true,
+    "usage": {
+      "input": 2747,
+      "output": 699,
+      "cache_read": 0,
+      "cache_write": 0
+    }
+  },
+  {
+    "task_id": 386,
+    "status": "SUCCESS (268/268) attempt=0",
+    "elapsed": 26.171388387680054,
+    "code_saved": true,
+    "usage": {
+      "input": 1265,
+      "output": 1819,
+      "cache_read": 0,
+      "cache_write": 0
+    }
+  },
+  {
+    "task_id": 387,
+    "status": "no code after 3 attempts",
+    "elapsed": 103.1746141910553,
+    "code_saved": false,
+    "usage": {
+      "input": 37090,
+      "output": 9161,
+      "cache_read": 0,
+      "cache_write": 0
+    }
+  },
+  {
+    "task_id": 388,
+    "status": "SUCCESS (266/266) attempt=0",
+    "elapsed": 12.563626766204834,
+    "code_saved": true,
+    "usage": {
+      "input": 2249,
+      "output": 869,
+      "cache_read": 0,
+      "cache_write": 0
+    }
+  },
+  {
+    "task_id": 390,
+    "status": "SUCCESS (266/266) attempt=1",
+    "elapsed": 53.238176345825195,
+    "code_saved": true,
+    "usage": {
+      "input": 19629,
+      "output": 4570,
+      "cache_read": 0,
+      "cache_write": 0
+    }
+  },
+  {
+    "task_id": 391,
+    "status": "SUCCESS (267/267) attempt=2",
+    "elapsed": 51.59894371032715,
+    "code_saved": true,
+    "usage": {
+      "input": 17202,
+      "output": 4295,
+      "cache_read": 0,
+      "cache_write": 0
+    }
+  },
+  {
+    "task_id": 392,
+    "status": "no code after 3 attempts",
+    "elapsed": 136.39620661735535,
+    "code_saved": false,
+    "usage": {
+      "input": 23978,
+      "output": 12287,
+      "cache_read": 0,
+      "cache_write": 0
+    }
+  },
+  {
+    "task_id": 393,
+    "status": "SUCCESS (265/265) attempt=0",
+    "elapsed": 4.521660327911377,
+    "code_saved": true,
+    "usage": {
+      "input": 2975,
+      "output": 335,
+      "cache_read": 0,
+      "cache_write": 0
+    }
+  },
+  {
+    "task_id": 394,
+    "status": "SUCCESS (266/266) attempt=1",
+    "elapsed": 49.24772500991821,
+    "code_saved": true,
+    "usage": {
+      "input": 6489,
+      "output": 4656,
+      "cache_read": 0,
+      "cache_write": 0
+    }
+  },
+  {
+    "task_id": 395,
+    "status": "SUCCESS (268/268) attempt=0",
+    "elapsed": 6.7614171504974365,
+    "code_saved": true,
+    "usage": {
+      "input": 1085,
+      "output": 566,
+      "cache_read": 0,
+      "cache_write": 0
+    }
+  },
+  {
+    "task_id": 396,
+    "status": "SUCCESS (266/266) attempt=1",
+    "elapsed": 56.54293775558472,
+    "code_saved": true,
+    "usage": {
+      "input": 13881,
+      "output": 4836,
+      "cache_read": 0,
+      "cache_write": 0
+    }
+  },
+  {
+    "task_id": 397,
+    "status": "SUCCESS (266/266) attempt=0",
+    "elapsed": 21.847581148147583,
+    "code_saved": true,
+    "usage": {
+      "input": 3845,
+      "output": 2052,
+      "cache_read": 0,
+      "cache_write": 0
+    }
+  },
+  {
+    "task_id": 398,
+    "status": "SUCCESS (268/268) attempt=0",
+    "elapsed": 17.088542461395264,
+    "code_saved": true,
+    "usage": {
+      "input": 2585,
+      "output": 1216,
+      "cache_read": 0,
+      "cache_write": 0
+    }
+  },
+  {
+    "task_id": 399,
+    "status": "SUCCESS (273/273) attempt=0",
+    "elapsed": 11.087579488754272,
+    "code_saved": true,
+    "usage": {
+      "input": 1235,
+      "output": 950,
+      "cache_read": 0,
+      "cache_write": 0
+    }
+  },
+  {
+    "task_id": 400,
+    "status": "SUCCESS (266/266) attempt=2",
+    "elapsed": 84.23463821411133,
+    "code_saved": true,
+    "usage": {
+      "input": 42429,
+      "output": 8501,
+      "cache_read": 0,
+      "cache_write": 0
+    }
+  }
+]
