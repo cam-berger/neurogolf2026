@@ -71,8 +71,11 @@ def _build_reachable(input_name: str, wall_color: int | None, n_iter: int = 30) 
     # reachable = border * not_wall  (can't propagate through walls, so zero out border walls)
     nodes.append(helper.make_node("Mul", ["border_init", "not_wall"], ["reach_0"], name="init_reach"))
 
-    # Convolution kernel for 3x3 "any neighbor active"
-    conv_w = np.ones((1, 1, 3, 3), dtype=np.float32)
+    # Convolution kernel for 4-connected "any cardinal neighbor active"
+    # (8-connected via np.ones would leak through diagonal gaps in wall rings)
+    conv_w = np.array([[[[0, 1, 0],
+                          [1, 1, 1],
+                          [0, 1, 0]]]], dtype=np.float32)
     conv_c = make_const("conv3x3", conv_w)
     inits.append(conv_c)
 
