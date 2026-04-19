@@ -3,3 +3,7 @@ __pycache__/
 *.pyo
 .ipynb_checkpoints/
 /tmp/
+kaggle-neuro.txt
+llm_synthesis/
+*.log
+.vscode/
